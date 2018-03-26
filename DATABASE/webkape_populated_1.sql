@@ -19,11 +19,9 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `webkape`
+-- Database: `heroku`
 --
-DROP DATABASE IF EXISTS `webkape`;
-CREATE DATABASE IF NOT EXISTS `webkape` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
-USE `webkape`;
+USE `heroku_17d85f2ba110a2f`; 
 
 -- --------------------------------------------------------
 
