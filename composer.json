@@ -26,7 +26,6 @@
             "index-document": "index.php",
             "php-config": [
                 "short_open_tag=on",
-                "newrelic.appname=webtest-webtest"
             ],
             "engines": {
                 "php": "5.5.*",
@@ -35,7 +34,6 @@
             "compile": [
                 "echo $FOO"
             ],
-            "newrelic": true
         }
     }
 }
